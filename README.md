@@ -1,5 +1,3 @@
-# zulrahmat.github.io
-
 - Codeigniter 4
   - [Request](request.md)
   - [Response](response.md)
