@@ -1,6 +1,6 @@
 # zulrahmat.github.io
 
-- [Codeigniter 4]
+- Codeigniter 4
   - [Request](request.md)
   - [Response](response.md)
   - [Session](session.md)
