@@ -1,4 +1,5 @@
 - Codeigniter 4
+  - [Global Variabel](global.md)
   - [Request](request.md)
   - [Response](response.md)
   - [Session](session.md)
