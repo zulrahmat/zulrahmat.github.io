@@ -24,7 +24,12 @@
   - [Session](session.md)
   - [Cookie](cookie.md)
   - [Routing](routing.md)
+  - [Autoroute Improved](autoroute_improved.md)
   - [Validation](validation.md)
+  - [Pagination](pagination.md)
+  - [Email](email.md)
+  - Security
+    - [CSRF](csrf.md)
   - Restfull
     - [Presenter](restful/presenter.md)
     - [Resource](restful/resource.md)

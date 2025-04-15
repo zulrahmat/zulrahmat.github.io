@@ -1,2 +1,4 @@
 - [Codeigniter 4](ci4/ci4.md)
 - [Jquery](jquery/jquery.md)
+- [Php](php/php.md)
+- [javascript](js/js.md)
